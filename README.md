@@ -14,7 +14,7 @@
 ```yaml
 name: Carlos Cintero
 located_in: Spain
-current_focus: Backend Development
+current_focus: Backend Development & System Deployment
 
 fields_of_interests:
   [
@@ -29,7 +29,7 @@ fields_of_interests:
 technical_background:
   [
     "Backend Developer (TypeScript, Spring, NodeJS, GraphQL)", 
-    "Linux System Administrator (Docker, Zabbix, ",
+    "Linux System Administrator (Docker, Zabbix, Wazuh)",
     "Embedded Systems Developer (ESP-IDF, STM32)",
     "Yocto Project Developer"
   ]
